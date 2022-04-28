@@ -1,0 +1,24 @@
+ <!-- basic buttons -->
+    <h2>Button sizes</h2>
+
+    <button class="btn btn-outline-primary">Outlined primary button</button>
+    <button class="btn btn-outline-secondary">Outlined secondary button</button>
+
+    <!-- button groups -->
+    <h2>Button groups</h2>
+
+    <div class="btn-group">
+        <a href="#" class="btn btn-primary">button 1</a>
+        <a href="#" class="btn btn-primary">button 2</a>
+        <a href="#" class="btn btn-primary">button 3</a>
+    </div>
+
+    <!-- margin and padding -->
+    <div class="bg-primary m-1 p-1">small margin and pading</div>
+    <div class="bg-primary m-5 p-5">large margin and pading</div>
+    <div class="bg-primary my-3 px-5">margin in y direction, padding in x direction</div>
+    <div class="bg-primary mt-3 mb-4 ms ps-5 pt-4 pe-2 pb-1">m & for each direction</div>
+
+    <!-- borders -->
+    <div class="m-3 p-3 border">default border</div>
+    <div class="m-3 p-3 border-top border-end"

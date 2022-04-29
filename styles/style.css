@@ -1,5 +1,7 @@
-* {
-    margin: 0;
-    padding: 0;
+.progress {
+    margin-bottom: 40px;
 }
 
+.lead {
+    margin-bottom: 30px;
+}
